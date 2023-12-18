@@ -3,6 +3,7 @@ The project revolves around creating an insightful and user-friendly dashboard t
 
 # Tools Used:
 **Tableau**: Utilized for creating visualizations and interactive dashboard.
+
 **Excel**: Employed for data preparation, cleaning, and in-depth analysis. 
 
 # Key Feautures
